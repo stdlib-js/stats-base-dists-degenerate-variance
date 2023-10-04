@@ -69,7 +69,7 @@ where `μ` is the constant value of the distribution.
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-variance@v0.1.1-esm/index.mjs';
 ```
 
 #### variance( mu )
@@ -114,7 +114,7 @@ v = variance( NaN );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-variance@v0.1.1-esm/index.mjs';
 
 var mu;
 var v;
