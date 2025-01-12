@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-20)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`974b609`](https://github.com/stdlib-js/stdlib/commit/974b6094ed693a4a4fc732f9f0de082e2ab3cf89) - **feat:** add C implementation for `stats/base/dists/degenerate/variance` [(#4022)](https://github.com/stdlib-js/stdlib/pull/4022) _(by Aayush Khanna)_
 
 </details>
@@ -46,9 +47,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Philipp Burckhardt
 
 </section>
 
